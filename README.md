@@ -1,5 +1,5 @@
 # Idle User Logoff
-A simple C# application that logs the user off a Windows user account after a set amount of time. Includes a popup window countdown and easy to change settings file.
+A simple C# application that logs the user off a Windows user session after a set amount of time. Includes a popup window countdown and easy to change settings file.
 
 ![Popup Window Countdown](PopupWindowCountdownExample.png)
 
