@@ -3,4 +3,4 @@ A simple C# application that logs out of a Windows user session after a set amou
 
 ![Popup Window Countdown](PopupWindowCountdownExample.png)
 
-Being C# and developed in Visual Studio 2017, this application is made to run on a Windows machine. Development takes place on a Windows 10 desktop and the project uses .NET Framework 4.0. The application should be able to run on previous versions of Windows without problem, but I leave that up to the user to find out.
+Being C# and developed in Visual Studio 2017, this application is made to run on a Windows workstation. Development takes place in Windows 10 and the project uses .NET Framework 4.0. The application should be able to run in previous versions of Windows without problem.
